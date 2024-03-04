@@ -6,7 +6,7 @@ Visual Studio Code 1.87.0
 g++/gcc 11.4.0
 
 ##To run it from g++ command is:
-mkdir build 
-cd build
-g++ ../main.cpp -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_videoio -lopencv_video -lX11 -o main.o -L/usr/lib/x86_64-linux-gnu
+    mkdir build 
+    cd build
+    g++ ../main.cpp -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_videoio -lopencv_video -lX11 -o main.o -L/usr/lib/x86_64-linux-gnu
 
